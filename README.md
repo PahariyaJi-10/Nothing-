@@ -1,4 +1,4 @@
-# Hi, I'm [Divyansh] 👋
+# Hi, I'm Divyansh 👋
 
 > [Your short tagline here — e.g. "Building impactful products with code, creativity, and curiosity."]
 
