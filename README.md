@@ -1,6 +1,5 @@
 # Hi, I'm Divyansh 👋
 
-> [Your short tagline here — e.g. "Building impactful products with code, creativity, and curiosity."]
 
 I’m a [your profession] who loves turning ideas into clean, scalable, and meaningful digital experiences. I enjoy solving real-world problems, learning new technologies, and collaborating on projects that make a difference.
 
