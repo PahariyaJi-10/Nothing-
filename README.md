@@ -1,8 +1,5 @@
 # Hi, I'm Divyansh 👋
 
-
-I’m a [your profession] who loves turning ideas into clean, scalable, and meaningful digital experiences. I enjoy solving real-world problems, learning new technologies, and collaborating on projects that make a difference.
-
 ## About Me
 
 - 💡 Passionate about [your focus area, e.g. software engineering, AI, backend systems, product design]
