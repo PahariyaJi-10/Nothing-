@@ -1,4 +1,4 @@
-# Hi, I'm Divyansh 👋
+# Hi, I'm Divyansh Pahariya 👋
 
 ## About Me
 
