@@ -6,7 +6,7 @@
 - 🚀 Currently exploring [your current interest or learning goal]
 - 🧩 Interested in [your domain, e.g. web apps, data, automation, cloud, DevOps, open source]
 - 🌍 Based in [your location, if you want to share it]
-- 📫 Reach me at: [your email or contact link]
+- 📫 Reach me at: [divyanshpahariya@gmail.com]
 
 ## Tech Stack
 
