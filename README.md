@@ -79,9 +79,7 @@ A brief description of what the project does, the problem it solves, and the tec
 - 📧 Email: [your email]
 - 🧑‍💻 GitHub: [your GitHub profile URL]
 
-## Fun Fact
 
-> [A short personal fact, hobby, or favorite quote]
 
 ---
 
