@@ -44,8 +44,6 @@ A brief description of what the project does, the problem it solves, and the tec
 - 🌐 Live Demo: [link]
   
 
-### [Project Name 3]
-A brief description of what the project does, the problem it solves, and the technologies used.
 
 - 🔧 Built with: [Tech stack]
 - 🌐 Live Demo: [link]
