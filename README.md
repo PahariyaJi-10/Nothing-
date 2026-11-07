@@ -35,13 +35,6 @@
 - Linux
 - Figma / Notion / VS Code
 
-## Featured Projects
-
-### [Project Name 1]
-A brief description of what the project does, the problem it solves, and the technologies used.
-
-- 🔧 Built with: [Tech stack]
-- 🌐 Live Demo: [link]
   
 
 
