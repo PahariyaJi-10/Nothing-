@@ -2,7 +2,7 @@
 
 ## About Me
 
-- 💡 Passionate about [your focus area, e.g. software engineering, AI, backend systems, product design]
+- 💡 Passionate abou
 - 🚀 Currently exploring [your current interest or learning goal]
 - 🧩 Interested in [your domain, e.g. web apps, data, automation, cloud, DevOps, open source]
 - 🌍 Based in [your location, if you want to share it]
