@@ -5,7 +5,6 @@
 - 🧩 Interested in [your domain, e.g. web apps, data, automation, cloud, DevOps, open source]
 - 📫 Reach me at: [divyanshpahariya@gmail.com]
 
-## Tech Stack
 
 ### Languages
 - JavaScript / TypeScript
