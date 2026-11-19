@@ -31,12 +31,7 @@
 - Linux
 - Figma / Notion / VS Code
 
-  
 
-
-- 🔧 Built with: [Tech stack]
-- 🌐 Live Demo: [link]
-- 📦 Repo: [link]
 
 ## What I’m Working On
 
