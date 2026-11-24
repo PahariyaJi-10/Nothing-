@@ -46,17 +46,7 @@
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=[your-github-username]&layout=compact&theme=dark)
 
-## Connect With Me
 
-- 🌐 Portfolio: [your portfolio URL]
-- 💼 LinkedIn: [your LinkedIn URL]
-- 🐦 Twitter / X: [your handle]
-- 📧 Email: [your email]
-- 🧑‍💻 GitHub: [your GitHub profile URL]
-
-
-
----
 
 “Code is a craft, and every problem is an opportunity to learn something new.”  
 — [Optional personal favorite quote or your own line]
