@@ -47,6 +47,3 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=[your-github-username]&layout=compact&theme=dark)
 
 
-
-“Code is a craft, and every problem is an opportunity to learn something new.”  
-— [Optional personal favorite quote or your own line]
