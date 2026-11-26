@@ -40,10 +40,6 @@
 - Contributing to [open source / community / team project]
 - Exploring [AI, cloud, backend architecture, product engineering, etc.]
 
-## GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=[your-github-username]&show_icons=true&theme=dark)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=[your-github-username]&layout=compact&theme=dark)
 
 
