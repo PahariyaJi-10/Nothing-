@@ -33,13 +33,5 @@
 
 
 
-## What I’m Working On
-
-- Building [current project or area of focus]
-- Learning [new skill or technology]
-- Contributing to [open source / community / team project]
-- Exploring [AI, cloud, backend architecture, product engineering, etc.]
-
-
 
 
