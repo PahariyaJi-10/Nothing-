@@ -24,13 +24,6 @@
 - PostgreSQL
 - MongoDB
 
-### Tools & Platforms
-- Git / GitHub
-- Docker
-- AWS / Azure / GCP
-- Linux
-- Figma / Notion / VS Code
-
 
 
 
